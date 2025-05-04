@@ -25,3 +25,11 @@ This project is a full-stack clone of the popular accommodation booking platform
     - Company information
     - Social media links
     - Copyright information
+
+Project Roles and Responsibilities
+Project Manager
+UIUX
+Frontend Developer 
+Backend Developer
+Product Owner
+Scrum Master
